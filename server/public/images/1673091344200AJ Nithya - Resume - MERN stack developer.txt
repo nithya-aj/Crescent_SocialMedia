@@ -1,0 +1,54 @@
+Nithya AJ
+MERN stack developer
+
+Thrissur
+9037451107
+
+Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems.   Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Java, Node, JavaScript, React and many more.
+
+PERSONAL INFORMATION
+  Address: Attuveppil (H), Thrissur, 680562
+  Nationality: 
+  Driving License: 
+  Hobbies: Drawing 
+Sticking
+Embroidery
+Craft making
+
+
+SOCIAL PROFILES
+  * LinkedIn: https://www.linkedin.com/in/aj-nithya-b68103232/
+  * GitHub: https://github.com/nithya-aj
+  * StackOverFlow: https://stackoverflow.com/users/18269858/aj-nithya
+
+SKILLS
+  ★★★★★ HTML & CSS
+  ★★★★☆ SQL
+  ★★★☆☆ Git
+  ★★★★☆ React
+  ★★★★☆ Java
+  ★★★★★ C++
+  ★★★★☆ Express.js
+  ★★★★☆ MongoDB
+  ★★★☆☆ JavaScript
+
+WORK EXPERIENCE
+  * April 2022 – Present
+    Intern at Brototype, Kochi
+      
+  Maintained up-to-date knowledge of technologies.
+  As a self taught developer, have a proper knowledge of how the technologies use effectively.
+  Developed full-stack web applications which processed, analyzed, and rendered data visually.
+  Done projects concentrating both on back-end, front-end and also in mern stack.
+  Developed app integration with REST and other APIs for chat, social media logins, payment processors, and other services.
+
+
+
+EDUCATION
+  * April 2022 – Present
+    Brototype, Kochi Intern
+  * August 2018 – March 2020
+    Sacred Heart CGHSS, Thrissur Computer Science
+  * April 2018
+    CNN GHSS, Thrissur SSLC
+
